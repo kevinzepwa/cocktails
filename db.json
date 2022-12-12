@@ -1,0 +1,46 @@
+{
+  "data" : [
+    {
+      "id": 1,
+      "name": "Blue margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg",
+      "price": "300",
+      "description": "Ordinary drink"
+    },
+    {
+      "id": 2,
+      "name": "Tommys Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/loezxn1504373874.jpg",
+      "price": "4500",
+      "description": "Ordinary drink"
+    },
+    {
+      "id": 3,
+      "name": "Whitecap Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/srpxxp1441209622.jpg",
+      "price": "3500",
+      "description": "Ordinary drink"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg",
+      "price": "1000",
+      "description": "Ordinary drink"
+    },
+    {
+      "id": 4,
+      "name": "Smashed Watermelon Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/dztcv51598717861.jpg",
+      "price": "550",
+      "description": "Ordinary drink"
+    },
+    {
+      "id": 5,
+      "name": "Tonic Vodka and Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg",
+      "price": "1400",
+      "description": "Smice Vodka"
+    }
+  ]
+}
